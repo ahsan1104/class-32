@@ -1,0 +1,24 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    background-image: url("./animated-gifs-of-fighting-game-backgrounds-8.gif");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+    object-fit: contain;
+    background-position: bottom;
+}
+
+#ryu{
+    height: 60%;
+    position: absolute;
+    bottom: 10px;
+    left: 10px;
+    background: none;
+
+}
+.abc{
+    height: 150px;
+    
+
+}
